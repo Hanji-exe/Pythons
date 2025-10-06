@@ -16,9 +16,10 @@ Error handling for invalid inputs (like dividing by zero or entering non-numeric
 
 ## Code Structure
 
-simple-calculator/
-├── calculator.py # Main program file
-├── README.md # Documentation file (this file)
+Pythons/
+   └── MyFirst_Calculator/
+          ├── calculator.py
+          ├── README.md
 
 
 ##  How It Works
