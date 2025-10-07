@@ -39,6 +39,16 @@ You’ll build an interactive program that demonstrates all these concepts toget
 
 ---
 
+## Code Structure
+
+Pythons/
+   └── Python_Syntax/
+          ├── main.py
+          ├── image.png
+          ├── README.md
+
+---
+
 ## Sample Output
 
 ![alt text](image.png)
